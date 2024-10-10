@@ -11,7 +11,7 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": "None"
+      "value": "7880053408:AAFIaK0ZEkoil8BrLAy_9uSVpCx2TS4VH6A"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
@@ -19,19 +19,19 @@
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": "None"
+      "value": "20415731"
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
-      "value": "None"
+      "value": "mewo"
     },
     "DATABASE_NAME":{
       "description": "Enter your DATABASE_NAME ",
-      "value": "sahil"
+      "value": "meow"
     },
     "API_HASH":{
       "description": "your api hash, take it from my.telegram.org",
-      "value": "None"
+      "value": "bd08752ff079fbe5f4f8497868b9a40e"
     },
     "CHANNEL_ID":{
       "description": "make a channel (database channel), then make the bot as admin in channel, and it's id",
