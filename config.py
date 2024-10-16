@@ -22,7 +22,7 @@ API_HASH = os.environ.get("API_HASH", "bd08752ff079fbe5f4f8497868b9a40e")
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1002134572304"))
 
 #OWNER ID
-OWNER_ID = int(os.environ.get("OWNER_ID", "-6440021089"))
+OWNER_ID = int(os.environ.get("OWNER_ID", "-7187632702"))
 
 #Port
 PORT = os.environ.get("PORT", "8080")
@@ -68,8 +68,8 @@ DISABLE_CHANNEL_BUTTON = os.environ.get("DISABLE_CHANNEL_BUTTON", None) == 'True
 BOT_STATS_TEXT = "<b>BOT UPTIME</b>\n{uptime}"
 USER_REPLY_TEXT = "​Nya,Don't Msg me"
 
-ADMINS.append(OWNER_ID)
-ADMINS.append(2058121397)
+ADMINS.append(-6440021089)
+ADMINS.append(-6440021089)
 
 LOG_FILE_NAME = "filesharingbot.txt"
 
